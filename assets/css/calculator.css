@@ -1,0 +1,27 @@
+.inputs {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inputs input{
+    width: 500px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.buttons button{
+    width: 199px;
+}
+
+.result-input {
+    display: flex;
+    justify-content: center;
+}
+
+.result-input input{
+    width: 500px;
+}

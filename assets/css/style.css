@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+button {
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+
+#products .list ul li i{
+    float: right;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
+
